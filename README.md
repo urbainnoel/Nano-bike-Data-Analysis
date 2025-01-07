@@ -19,7 +19,7 @@ This analysis focuses on the performance metrics of Nano Bike A.Ş, a bike-shari
 ### KPI over Time
 
 The KPI over Time graph shows the sum of riders, average profit, and average revenue from January to December. The data indicates a peak in rider activity and revenue during the mid-year months (May to August), with a gradual decline towards the end of the year.
-![Power BI Report](https://raw.githubusercontent.com/urbainnoel/Data-analysis-projects/main/nano_bike_power_bi_report.png)
+![Power BI Report](https://raw.githubusercontent.com/urbainnoel/Nano-bike-Data-Analysis/main/nano_bike_power_bi_report.png)
 
 ### Revenue by Season
 
